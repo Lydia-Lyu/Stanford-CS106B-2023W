@@ -4,7 +4,6 @@
 #include "set.h"
 #include "stack.h"
 using namespace std;
-int weightofinterval(EncodingTreeNode* interval, Map<char ,int>& weight);
 /**
  * Deallocates all nodes in a Huffman tree. We've provided this helper function
  * to you since we also use it in our test driver and figured you might want
